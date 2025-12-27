@@ -1,4 +1,4 @@
-input_file="sample.log"
+input_file="../../data/sample.log"
 output_file= "extracted_ip.log"
 with open(input_file, "r") as infile:
     with open(output_file, "w") as outfile:

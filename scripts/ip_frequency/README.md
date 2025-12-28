@@ -1,4 +1,7 @@
-which may indicate suspicious or malicious activity.
+## 📘 IP EXTRACTOR 
+
+This script extracts all log entries containing IP address information and
+saves them into a separate file for focused analysis.
 
 ## Purpose
 

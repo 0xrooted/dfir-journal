@@ -15,9 +15,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Logs
-*.log
-
 # Temporary files
 *.tmp
 *.temp

@@ -1,0 +1,10 @@
+[2025-07-21 10:01:12] INFO User login successful | user=root | IP: 192.168.1.10
+[2025-07-21 10:02:45] ERROR Failed password attempt | user=admin | IP: 192.168.1.15
+[2025-07-21 10:03:10] INFO File accessed | user=james | IP: 10.0.0.5
+[2025-07-21 10:04:01] WARNING Access denied for user | user=guest | IP: 172.16.0.3
+[2025-07-21 10:05:33] INFO System check completed
+[2025-07-21 10:06:44] ERROR Failed login attempt | user=root | IP: 192.168.1.15
+[2025-07-21 10:07:59] INFO Connection established | IP: 8.8.8.8
+[2025-07-21 10:08:20] ERROR Disk read error detected
+[2025-07-21 10:09:41] INFO User logout | user=admin
+[2025-07-21 10:10:55] WARNING Multiple failed attempts detected | IP: 192.168.1.15

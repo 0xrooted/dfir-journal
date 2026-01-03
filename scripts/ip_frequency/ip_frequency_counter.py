@@ -1,4 +1,4 @@
-input_file = "../../data/sample.log"
+input_file = "../data/sample.log"
 ip_count = {}
 
 with open(input_file, "r") as file:

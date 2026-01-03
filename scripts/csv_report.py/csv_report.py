@@ -2,7 +2,7 @@ import re
 import csv
 from collections import defaultdict
 
-log_file = "../../data/sample.log"
+log_file = "../data/sample.log"
 output_csv = "bruteforce_report.csv"
 
 threshold = 2  

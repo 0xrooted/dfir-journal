@@ -1,5 +1,5 @@
 username = input("Enter the Username: ")
-input_file = "../../data/sample.log"
+input_file = "../data/sample.log"
 output_file= f"user_{username}_logs.log"
 
 found = False

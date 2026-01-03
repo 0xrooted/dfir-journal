@@ -1,7 +1,7 @@
 import re
 from collections import defaultdict
 
-log_file = "../../data/sample.log"
+log_file = "../data/sample.log"
 threshold = 2 
 
 keywords = ["failed password", "failed login", "failed attempt"]

@@ -1,6 +1,6 @@
 import re
 
-input_file = "../../data/sample.log"
+input_file = "../data/sample.log"
 output_file = "ip_extracted_regex.log"
 
 ip_pattern = r"\b\d{1,3}(?:\.\d{1,3}){3}\b"

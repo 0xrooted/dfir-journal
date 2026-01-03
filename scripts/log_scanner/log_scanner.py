@@ -1,5 +1,5 @@
 keywords = ["failed", "error", "denied"]
-input_file= "../../data/sample.log"
+input_file= "../data/sample.log"
 output_file= "suspecious.log"
 with open(input_file,"r") as infile:
     with open(output_file,"w") as outfile:

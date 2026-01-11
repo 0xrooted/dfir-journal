@@ -18,8 +18,6 @@ Think of it as a three-step process:
    - How many failed attempts each one made
    - Whether it looks like a brute force attack (if there are 2 or more attempts, it flags it as "Yes")
 
-That's it! You get a clean, organized report ready for analysis.
-
 
 ```bash
 python bruteforce_csv_report.py
